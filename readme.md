@@ -1,6 +1,6 @@
-# DS18 Open Lab | Data Visualization with R and Google Play Store Data
+﻿# DS19 Open Lab | Data Visualization with R and Google Play Store Data
 
-This repository contains the lab for demonstrating the Google Play Store Apps data analysis using R Programming. It is one of the labs brought to you by Miracle's Innovation Labs.
+This repository contains the labs for demonstrating Data Visualization with R and Google Play Store Data. The labs are brought to you by Miracle's Innovation Labs.
 
 ## Technologies Overview
 
@@ -10,12 +10,13 @@ The following are the technologies that are used in this lab. Any prior knowledg
 
 ## Important Links
 
-• Install R  	 - https://cran.rproject.org/bin/windows/base/
-• Install RStudio - https://www.rstudio.com/products/rstudio/download/
+• Install R - https://cran.r-project.org/bin/windows/base/R-3.6.1-win.exe
+
+• Install R Studio - https://www.rstudio.com/products/rstudio/download/#download
 
 ## Repository Contents
 
-The repository contains detailed documentation and steps for understanding and conquering this lab.
+The repository contains detailed documentation and steps for understanding and conquering the labs.
 
 • How To Documents for self-paced Labs
 
@@ -25,6 +26,6 @@ The repository contains detailed documentation and steps for understanding and c
 
 ## Lab Contributors
 
-The following people have contributed to the development and delivery of this lab. This Lab is created and owned by the Miracle Innovation Labs Team.
+The following people have contributed to the development and delivery of these labs. These Labs are created and owned by the Miracle Innovation Labs Team.
 
-• Ramya Pichikala - Lead Researcher Data Science
+• Amrutha Raparthi - Data Science Research Associate 
